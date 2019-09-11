@@ -9,6 +9,7 @@
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
+- [Nipuna Ratnayake](https://github.com/nipunarat)
 - [lisalidroit](https://github.com/lisalidroit))
 - [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
