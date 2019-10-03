@@ -1193,6 +1193,7 @@ Stephan Sharpe
 - [Prasanta Bose](https://github.com/boseprasanta)
 - [Trivender](https://github.com/trivender)
 - [Nick Renaud](https://github.com/NickRenaud74)
+- [Nick Roma](https://github.com/nikoandpiko/)
 - [Martin Ramos](https://github.com/martin292)
 - [Ali Bolourian](https://github.com/abolourian)
 - [Hericles Koelher](https://github.com/blackshooter987)
