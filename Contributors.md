@@ -2035,6 +2035,7 @@ Stephan Sharpe
 - [Brett Langford](https://github.com/itsbett)
 - [Daniel Lawrence](https://github.com/danielplawrence)
 - [Nicholas Ricci](https://github.com/nicholasricci)
+- [Nicholas Roma](https://github.com/nikoandpiko)
 - Marc
 - Michael Baramidze
 - [Vonnie Wu](https://github.com/vonniewu)
