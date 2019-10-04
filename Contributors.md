@@ -15,6 +15,7 @@
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Shahbaz Ali] (https://github.com/shazyriver)
 - [Justin Kim](https://github.com/naznsan)
+  [kunal jindal](https://github.com/kunaljindal)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
 - [Samuel Kapusta](htpps://github.com/cabbagelover25)
