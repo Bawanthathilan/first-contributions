@@ -31,6 +31,7 @@
 - [Devil-Echo]
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Kwon Hur](https://github.com/kwonhur)
+- [stevescode](https://github.com/stevescode)
 - [Dominic London](https://github.com/djlondon)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
