@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Daivik](https://github.com/daivikpurani)
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
