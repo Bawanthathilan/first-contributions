@@ -110,6 +110,7 @@ Haris Siddiqui
 -[Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
 - Constant Likudie
 - MrMame
+- [Darshit Patel](https://github.com/Darshit-sopho)
 -[Brady Atkinson](https://github.com/BradyAtkinson)
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
