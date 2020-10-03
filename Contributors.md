@@ -126,6 +126,7 @@ Haris Siddiqui
 - [Soumyajit Deb](https://github.com/Maxz2136)
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
+- Nkrumah Sarpong(https://github.com/nkrumahthis)
   Aviad Ariel
 - Rushabh Doshi
 - [Kevin Schoormans] (https://github.com/kevinschoormans)
