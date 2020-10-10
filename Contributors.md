@@ -1358,6 +1358,7 @@ Stephan Sharpe
 - [Hamdun Mohammed](https://github.com/Hamoha/)
 - Guy Shaibi
 - [Josh Norman](https://github.com/jmnorma)
+- [Ankit Jaiswal](https://github.com/ankit0305)
 - [Sean K Smith](https://github.com/sksmith)
 - [Walter Manter](https://github.com/Walt-m)
 - Arka Pattanayak
