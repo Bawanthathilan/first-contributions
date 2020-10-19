@@ -1388,6 +1388,7 @@ Stephan Sharpe
 - [Alexander Serdobincev](https://github.com/ITihiy)
 - [Suki Sahota](https://github.com/suki-sahota)
 - [Maurice Castro](https://github.com/Teeny-Sanguini)
+- [Ashish Jha](https://github.com/ashishjha)
 - [Rajat](https://github.com/Rajat1999)
 - [Badyal Suresh Rahul](https://github.com/rali20)
 - [Simranjit Kaur](https://github.com/SimranjitKaurMaan)
