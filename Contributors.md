@@ -26,6 +26,7 @@
 - [Stacy Meichle](https://github.com/smeichle)
 - [prince1508](http://github.com/prince1508)
 - [HRK_Codes](https://github.com/HRK31)
+- [Nikita Kashyap](https://github.com/technick20)
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
 - [Devil-Echo]
