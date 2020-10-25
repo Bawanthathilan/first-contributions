@@ -15797,6 +15797,7 @@ Mário Baltazar
 - [nickfiggins](https://github.com/nickfiggins)
 - [Roger T] (https://github.com/RogerT22)
 - [Asad Butt] (https://github.com/asdal)
+- [Joyal Raphel](https://github.com/joyal007)
 - [Nihal Pandey](https://github.com/stark019)
 - [Alex Parra](https://github.com/alex-parra)
 - [Chris Lewis](https://github.com/Ryu1284)
