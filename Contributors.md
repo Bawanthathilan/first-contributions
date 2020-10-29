@@ -54,6 +54,7 @@
 - [Rasul Kireev](https://rasulkireev.com)
 - [Erik Mueller] ErikDMueller.com
 - [Paulo Rodrigues](https://github.com/pauloandreget)
+  [Ayush Surana] (https://github.com/ayushsurana710)
 - [Paul Ozyzniewski](https://github.com/OziOcb)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
