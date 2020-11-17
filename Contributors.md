@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
+- [Lijo M Loyid](https://github.com/LIJOMLOYID)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
 - [cricri777](https://github.com/cricri777)
