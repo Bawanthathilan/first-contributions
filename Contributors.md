@@ -68,6 +68,7 @@
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Here2Dance (http://github.com/Here2Dance)
+- [Kritik Modi](https://github.com/kritikmodi)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
 - [Kailee]
