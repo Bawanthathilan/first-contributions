@@ -2,6 +2,7 @@
 
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
+- [Pankaj Kumar](https://github.com/hellopankaj)
 - [AminooZ](https://github.com/AminooZ)
 - [cricri777](https://github.com/cricri777)
 - [sm0rux](https://github.com/sm0rux)
