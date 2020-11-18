@@ -219,6 +219,7 @@ Haris Siddiqui
 - Atul Pandey
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
+- Astha Singh 
 - [Arthur King Reyes](https://github.com/arthurkingreyes)
 - Kumaramanas Nethil
 - [Richard Hu](https://github.com/rhu2001/)
