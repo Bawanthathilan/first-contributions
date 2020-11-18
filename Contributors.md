@@ -532,6 +532,7 @@ Haris Siddiqui
 - [Clement Sam](https://github.com/profclems)
 - [Rohit Vishen](https://github.com/RohitVishen)
 - JAYATI SHRIVASTAVA
+- Soham Mehrotra(https://github.com/MehrotraSoham)
 - [sixlim](https://github.com/sixlim)
 - [Nameet Nayak](https://github.com/nayaknameet)
 - [Ben Penwell](https://github.com/bpenwell)
