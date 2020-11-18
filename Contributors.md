@@ -153,6 +153,7 @@ Haris Siddiqui
 - [Edmund Kpodogui](https://github.com/dannkkie)
 - Anthony Luttrell
 - Glen Edwards
+- [Harshitha U K](https://github.com/harshithauk)
 - Christian Torbica
 - John Fletcher
 - [Michael Moran](https://github.com/Donovoi)
