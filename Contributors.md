@@ -22,6 +22,7 @@
 - [Justin Chow](https://github.com/justinchow11)
 - [Robert Brown](https://github.com/MegaCoulomb)
 - [kurt](https://github.com/KurtKudrat)
+- [Sai Sudha Vadisina](https://github.com/SaiSudhaV)
 - [Divyesh Jain](https://github.com/BlitW0)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
 - [Tiago Costa](https://github.com/macacolouco46)
