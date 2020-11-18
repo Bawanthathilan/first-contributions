@@ -4171,6 +4171,7 @@ Stephan Sharpe
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
 - [tobinatore](https://github.com/tobinatore/)
+- [Verso](https://github.com/v3rso)
 - [Alex Sorokin](https://github.com/kanvik175)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Dhiraj Kalita](https://github.com/dhrjklt)
