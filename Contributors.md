@@ -31,6 +31,7 @@
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
 - [Devil-Echo]
+ -[Ruchi651](https://github.com/Ruchi651/first-contributions)
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
