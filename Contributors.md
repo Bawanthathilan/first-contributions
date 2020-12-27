@@ -6808,6 +6808,7 @@ Stephan Sharpe
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
 - [Sreekaanth Ganesan](https://github.com/SreekaanthGanesan)
+- [Naama Frank](https://github.com/NaamaFrank)
 - [Manish Nagdevani](https://github.com/manish-nagdevani)
 - [Abhilekh Panwar](https://github.com/AbhilekhPanwar)
 - [Chloe Stamper](https://github.com/chloelikescats)
