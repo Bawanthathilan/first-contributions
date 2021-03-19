@@ -117,6 +117,7 @@ Haris Siddiqui
 - Devraj Singh Shekhawat
 - Zeinab
 - Shmuel Elkis (https://github.com/shmuel7e)
+-Rhea Oribel
 - Ray
 - AniketMagadum (https://github.com/AniketMagadum)
 - Tristen Nollman (https://github.com/TristenSeth)
