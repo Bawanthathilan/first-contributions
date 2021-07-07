@@ -352,6 +352,7 @@ Haris Siddiqui
 - [Kan Dang](https://github.com/kandaaang)
 - [Roey L](https://github.com/roeylrz)
 - [Kekoa Kubli](https://github.com/kkubli3246)
+- [Dina Nassyrkhan](https://github.com/ndina)
 - Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
 - [John Yu](https://github.com/johnyu763)
