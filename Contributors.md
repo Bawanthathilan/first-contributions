@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Pranav chopra](https://github.com/chopraji94)
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
